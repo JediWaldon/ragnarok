@@ -1,4 +1,4 @@
-# Trade V2
+# Trade V2 (*In Progress*)
 ## Ragnarok Campaign Trade Table
 | Item | Silver | Haggle DC | Discount/Penalty Dice |
 |:---|:---:|:---:|---:|
@@ -27,7 +27,7 @@
 | Gold Jewelry | 101 | | | 
 | Slave | 50.5 | | | 
 
-# Trade V1
+# Trade V1 (Obsolete)
 ## Ragnarok Campaign Trade Table
 | Item | Random Silver | Average Silver |
 |:---|:---:|---:|
