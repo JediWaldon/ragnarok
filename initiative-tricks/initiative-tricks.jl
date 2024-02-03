@@ -9,6 +9,8 @@ function main()
 
     collection()
 
+    display(l)
+
     run_combat()
 end
 
@@ -16,11 +18,33 @@ function collection()
     go_on = true
     while go_on
         print("Creature name: ")
-        # TODO: Collect name here
+        name = readline()
         print("Creature initiative: ")
+        num_str = readline()
+        io = stdout::IO
+        while isnothing(tryparse(Int64, num_str))
+            printstyled(IOContext(io, :color => true), "Not a number. \nPlease enter an integer: ", color=:red)
+            num_str = readline()
+        end
+        io = nothing
+        num = parse(Int64, num_str)
+        # while typeof(num) != Int64
+        #     print("Not a number. \nPlease enter an integer: ")
+        #     num_str = readline()
+        #     num = parse(Int64, num_str)
+        # end
+        # println("Name: $name \nType: $(typeof(num)) \nValue: $num")
+
         # TODO: Collect initiative number here
         # TODO: Add string and number pair to dictionary 
-        print("Continue? (y/n): ")
+        l[name] = num
+        print("Continue? (q to quit): ")
+        res = readline()
+        if res[1] == 'q' || res[1] == 'Q'
+            go_on = false
+        end
+
+
         # TODO: collect input
 
     end
