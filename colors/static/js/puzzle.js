@@ -2,7 +2,6 @@ let puzzle = []
 
 let mode_edit = null
 
-
 /*
 */
 document.addEventListener('DOMContentLoaded', () => {
@@ -88,9 +87,6 @@ function getRndmFromSet(set) {
     return set[rndm];
 }
 
-
-
-
 /*
 */
 function create_puzzle() {
@@ -168,8 +164,6 @@ function change(id) {
     }
 
 }
-
-
 
 /*
 */
