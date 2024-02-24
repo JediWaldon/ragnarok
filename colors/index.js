@@ -1,5 +1,4 @@
 const express = require('express'); // Import our Express dependency
-const seedrandom = require('seedrandom'); // Import our SeedRandom dependency
 
 const app = express(); // Create a new server instance
 const PORT = 8080; // Port number we want to use of this server
