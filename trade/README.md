@@ -1,31 +1,31 @@
-# Trade V2 (*In Progress*)
+# Trade V2 (*Updated*)
 ## Ragnarok Campaign Trade Table
-| Item | Silver | Haggle DC | Discount/Penalty Dice |
+| Item | Silver | Haggle DC | Discount/Penalty |
 |:---|:---:|:---:|---:|
 | **Food** | -- | -- | -- |
 | Fish | 2 | 18 | +/-1 |
-| Vegetables | 5 | | |
-| Honey | 7 | | | 
-| Grain | 7.5 | | | 
+| Vegetables | 5 | 16 | +/-2 |
+| Honey | 7 | 14 | +/-1 | 
+| Grain | 7.5 | 15 | +/-2 | 
 | **Livestock** | -- | -- | -- | 
-| Goat | 22 | | | 
-| Horse | 52 | | | 
+| Goat | 22 | 16 | +/-4 | 
+| Horse | 52 | 17 | +/-5 | 
 | **Textile** | -- | -- | -- | 
-| Wool | 5 | | | 
-| Cloth | 10.5 | | | 
-| Leather | 13.5 | | | 
-| Furs | 7.5 | | | 
+| Wool | 5 | 14 | +/-1 | 
+| Cloth | 10.5 | 14 | +/-2 | 
+| Leather | 13.5 | 15 | +/-2 | 
+| Furs | 7.5 | 13 | +/-3 | 
 | **Craft** | -- | -- | -- | 
-| Wood | 10 | | | 
-| Tools | 17.5 | | | 
-| Iron | 38.5 | | | 
-| Tin | 13.5 | | | 
+| Wood | 10 | 19 | +/-1 | 
+| Tools | 17.5 | 17 | +/-3 | 
+| Iron | 38.5 | 17 | +/-4 | 
+| Tin | 13.5 | 16 | +/-3 | 
 | **Luxury Items** | -- | -- | -- | 
-| Salt |13.5 | | | 
-| Glass Items | 11 | | | 
-| Silver Jewelry | 22 | | | 
-| Gold Jewelry | 101 | | | 
-| Slave | 50.5 | | | 
+| Salt | 13.5 | 14 | +/-1 | 
+| Glass Items | 11 | 14 | +/-4 | 
+| Silver Jewelry | 22 | 14 | +/-6 | 
+| Gold Jewelry | 101 | 13 | +/-30 | 
+| Slave | 50.5 | 15 | +/-20 | 
 
 # Trade V1 (Obsolete)
 ## Ragnarok Campaign Trade Table
